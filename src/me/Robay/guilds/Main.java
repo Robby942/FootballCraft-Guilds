@@ -1,8 +1,9 @@
 /*
 * TODO:
-*  Create less lag when accessing MySQL Database
-*  Leave JSON stuff empty for now
 *
+*  Fix experienced earned after leveling up if you gained more than the amount you needed
+*  Fix leaderboard breaking when a guild was disbanded
+*  Fix leaderboard ranking guilds in backwards order
 *  
 * 
 *  
