@@ -1,0 +1,7 @@
+main: me.Robay.guilds.Main
+name: Guilds
+version: 0.1
+author: Robay
+commands:
+  guild:
+  
