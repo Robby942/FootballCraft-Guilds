@@ -1,2 +1,5 @@
 # FootballCraft-Guilds
-Guilds plugin for FBC
+Guilds plugin for FBC 
+
+
+Compiled with Maven Eclipse
